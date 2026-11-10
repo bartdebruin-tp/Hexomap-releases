@@ -13,9 +13,8 @@
   <a href="https://github.com/bartdebruin-tp/Hexomap-releases/releases/latest/download/Hexomap-win-Setup.exe"><b>Download for Windows</b></a>
   ·
   <a href="https://github.com/bartdebruin-tp/Hexomap-releases/releases/latest/download/Hexomap-linux-x64.tar.gz"><b>Download for Linux</b></a>
-  ·
-  <a href="https://hexomap.lemonsqueezy.com/checkout/buy/705970bd-818e-486c-89ad-3183fdf11030"><b>Buy the full version ($15)</b></a>
 </p>
+<p>Join the <a href="https://discord.gg/KApEsGmDA">Discord</a> channel to talk about features and improvements.</p>
 
 ![The Hexomap editor: an illustrated hex map with forests, mountains, a desert kingdom with an orange border, coats of arms, towns and the label Jinrizu Island](images/illustrated-map.webp)
 
@@ -103,10 +102,8 @@ the whole map at once.
 | Battle maps (dungeons on icons)                              | open only    | ✓                    |
 
 Maps open in both versions. A licence key unlocks the app you already have installed: go to **Help → Licence…**, paste
-the key and click **Activate**. You don't need to reinstall. No subscription; checkout, VAT and sales tax are handled by
-Lemon Squeezy.
-
-**[Buy Hexomap: $15 →](https://hexomap.lemonsqueezy.com/checkout/buy/705970bd-818e-486c-89ad-3183fdf11030)**
+the key and click **Activate**. You don't need to reinstall. No subscription;
+**[Buy Hexomap: $15 →](https://hexomap.lemonsqueezy.com/checkout/buy/705970bd-818e-486c-89ad-3183fdf11030)** (in progress, right now unable to buy the product. But you can use the free version in the meantime which have almost all features unlocked until the licences haven been fixed)
 
 ## Download
 
